@@ -1,0 +1,63 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#dfeaee"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/help"
+        android:layout_width="249dp"
+        android:layout_height="60dp"
+        android:layout_x="-20dp"
+        android:layout_y="396dp"
+        android:background="@drawable/help"
+        android:scaleType="centerCrop" />
+
+    <Button
+        android:id="@+id/about"
+        android:layout_width="287dp"
+        android:layout_height="64dp"
+        android:layout_x="-22dp"
+        android:layout_y="329dp"
+        android:background="@drawable/about"
+        android:scaleType="centerCrop" />
+
+    <Button
+        android:id="@+id/multiplayer"
+        android:layout_width="333dp"
+        android:layout_height="80dp"
+        android:layout_x="-55dp"
+        android:layout_y="89dp"
+        android:background="@drawable/mul"
+        android:scaleType="centerCrop" />
+
+    <Button
+        android:id="@+id/singalplayer"
+        android:layout_width="282dp"
+        android:layout_height="80dp"
+        android:layout_x="-21dp"
+        android:layout_y="6dp"
+        android:background="@drawable/sin"
+        android:scaleType="centerCrop" />
+
+    <Button
+        android:id="@+id/profile"
+        android:layout_width="278dp"
+        android:layout_height="74dp"
+        android:layout_x="104dp"
+        android:layout_y="178dp"
+        android:background="@drawable/profile"
+        android:scaleType="centerCrop" />
+
+    <Button
+        android:id="@+id/setting"
+        android:layout_width="267dp"
+        android:layout_height="68dp"
+        android:layout_x="124dp"
+        android:layout_y="254dp"
+        android:background="@drawable/setting"
+        android:scaleType="centerCrop" />
+
+</AbsoluteLayout>

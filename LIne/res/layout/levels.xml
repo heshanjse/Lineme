@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bacground_of_leval" >
+
+    <TextView
+        android:id="@+id/TextView08"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:layout_x="212dp"
+        android:layout_y="12dp"
+        android:text="Daily challange"
+        android:textColor="#928d8d" />
+
+    <TextView
+        android:id="@+id/TextView05"
+        android:layout_width="61dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="10dip"
+        android:layout_x="19dp"
+        android:layout_y="445dp"
+        android:text="Leval 6"
+        android:textColor="#f4aa36" />
+
+    <TextView
+        android:id="@+id/TextView06"
+        android:layout_width="61dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:layout_x="128dp"
+        android:layout_y="442dp"
+        android:text="Leval 7"
+        android:textColor="#f4aa36" />
+
+    <TextView
+        android:id="@+id/TextView07"
+        android:layout_width="61dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="10dip"
+        android:layout_x="245dp"
+        android:layout_y="442dp"
+        android:text="Leval 8"
+        android:textColor="#f4aa36" />
+
+    <Button
+        android:id="@+id/level3_2"
+          android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_x="121dp"
+        android:layout_y="358dp"
+        android:background="@drawable/l8"
+        android:scaleType="centerCrop" />
+
+    <Button
+        android:id="@+id/level3_3"
+         android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_x="226dp"
+        android:layout_y="362dp"
+        android:background="@drawable/l9" />
+
+    <Button
+        android:id="@+id/level3_1"
+          android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_marginTop="46dp"
+        android:layout_x="9dp"
+        android:layout_y="356dp"
+        android:background="@drawable/l7" />
+
+    <TextView
+        android:id="@+id/TextView03"
+        android:layout_width="61dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="10dip"
+        android:layout_x="137dp"
+        android:layout_y="325dp"
+        android:text="Leval 4"
+        android:textColor="#3f84cb" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="61dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="10dip"
+        android:layout_x="21dp"
+        android:layout_y="320dp"
+        android:text="Leval 3"
+        android:textColor="#3f84cb" />
+
+    <TextView
+        android:id="@+id/TextView04"
+        android:layout_width="61dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="10dip"
+        android:layout_x="236dp"
+        android:layout_y="321dp"
+        android:text="Leval 5"
+        android:textColor="#3f84cb" />
+
+    <Button
+        android:id="@+id/level2_1"
+         android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_x="21dp"
+        android:layout_y="235dp"
+        android:background="@drawable/l4"
+        android:scaleType="centerCrop" />
+
+    <Button
+        android:id="@+id/level2_2"
+         android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_x="131dp"
+        android:layout_y="238dp"
+        android:background="@drawable/l5"
+        android:scaleType="centerCrop" />
+
+    <Button
+        android:id="@+id/level2_3"
+         android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_x="228dp"
+        android:layout_y="237dp"
+        android:background="@drawable/l6" />
+
+    <TextView
+        android:id="@+id/Tlevel12"
+        android:layout_width="61dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="10dip"
+        android:layout_x="32dp"
+        android:layout_y="200dp"
+        android:text="Leval 1"
+        android:textColor="#f96363" />
+
+    <TextView
+        android:id="@+id/Tlevel13"
+        android:layout_width="61dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="10dip"
+        android:layout_x="145dp"
+        android:layout_y="201dp"
+        android:text="Leval 2"
+        android:textColor="#f96363" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="61dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="10dip"
+        android:layout_x="240dp"
+        android:layout_y="200dp"
+        android:text="Leval 3"
+        android:textColor="#f96363" />
+
+    <Button
+        android:id="@+id/level1_3"
+          android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_marginRight="22dp"
+        android:layout_x="221dp"
+        android:layout_y="122dp"
+        android:background="@drawable/l3" />
+
+    <Button
+        android:id="@+id/dalychallenge"
+         android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_x="224dp"
+        android:layout_y="34dp"
+        android:background="@drawable/dalichallenge" />
+
+    <Button
+        android:id="@+id/nextlevel"
+        android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_marginRight="19dp"
+        android:layout_marginTop="40dp"
+        android:layout_x="19dp"
+        android:layout_y="127dp"
+        android:background="@drawable/l1"
+        android:scaleType="centerCrop" />
+
+    <Button
+        android:id="@+id/level1_2"
+        android:layout_width="73dp"
+        android:layout_height="73dp"
+        android:layout_x="132dp"
+        android:layout_y="122dp"
+        android:background="@drawable/l2"
+        android:scaleType="centerCrop" />
+
+</AbsoluteLayout>
+
